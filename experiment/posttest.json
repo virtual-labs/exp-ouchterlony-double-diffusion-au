@@ -4,7 +4,7 @@
     {
       "question": "1. Which of the following does not participate in the formation of antigen-antibody complexes?",
       "answers": {
-        "a": "Hydrophobic bonds	",
+        "a": "Hydrophobic bonds",
         "b": "Covalent bonds",
         "c": "Van der Waals forces",
         "d": "Hydrogen bonds"
@@ -13,7 +13,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. Ouchterlony double diffusion is carried out in a __________medium.
+      "question": "2.Ouchterlony double diffusion is carried out in a __________medium.
       "answers": {
         "a": "Liquid",
         "b": "Solid",
@@ -24,7 +24,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3. Double diffusion is based on the principle of agglutination",
+      "question": "3.Double diffusion is based on the principle of agglutination",
       "answers": {
         "a": "True",
         "b": "False"
@@ -33,7 +33,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4.	Prozone phenomenon is",
+      "question": "4.Prozone phenomenon is",
       "answers": {
         "a": "Antibody excess",
         "b": "Antigen excess",
