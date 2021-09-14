@@ -6,7 +6,7 @@
       "answers": {
         "a": "Hydrophobic bonds	",
         "b": "Covalent bonds",
-        "c": "Van der Waals forces	",
+        "c": "Van der Waals forces",
         "d": "Hydrogen bonds"
       },
       "correctAnswer": "b",
@@ -17,7 +17,7 @@
       "answers": {
         "a": "Liquid",
         "b": "Solid",
-        "c": "Semi solid	",
+        "c": "Semi solid",
         "d": "Either a) or b)"
       },
       "correctAnswer": "c",
