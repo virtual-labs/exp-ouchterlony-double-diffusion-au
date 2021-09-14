@@ -2,37 +2,45 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Which of the following does not participate in the formation of antigen-antibody complexes?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Hydrophobic bonds",
+        "b": "Covalent bonds",
+        "c": "Van der Waals forces",
+        "d": "Hydrogen bonds"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.Ouchterlony double diffusion is carried out in a __________medium.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Liquid",
+        "b": "Solid",
+        "c": "Semi solid",
+        "d": "Either a) or b)"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.Double diffusion is based on the principle of agglutination",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.Prozone phenomenon is",
+      "answers": {
+        "a": "Antibody excess",
+        "b": "Antigen excess",
+        "c": "Antigen-antibody equivalence",
+        "d": "Both a) and b)"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
