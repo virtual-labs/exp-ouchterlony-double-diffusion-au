@@ -44,10 +44,11 @@
  
 
 5. Serially dilute the test antiserum up to 1:32 dilution as follows:
-                       • Take 20 µl of 1X assay buffer in each of the five vials (labeled from 1:2 through 1:32).
-                       • Add 20 µl of test antiserum into the first vial and mix well. The dilution of antiserum in this vial is 1:2.
-                       • Transfer 20 µl of 1:2 diluted antiserum from the first vial into the second vial. The dilution in this vial is 1:4
-                       • Repeat the dilutions up to fifth vial.
+
+• Take 20 µl of 1X assay buffer in each of the five vials (labeled from 1:2 through 1:32).
+• Add 20 µl of test antiserum into the first vial and mix well. The dilution of antiserum in this vial is 1:2.
+• Transfer 20 µl of 1:2 diluted antiserum from the first vial into the second vial. The dilution in this vial is 1:4
+• Repeat the dilutions up to fifth vial.
 
  
 
