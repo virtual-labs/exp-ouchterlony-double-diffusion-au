@@ -1,9 +1,5 @@
-## Materials Required
+#### Materials Required
  
-&nbsp;
-
-
-
 1. Antigen solution
 2. Test antiserum
 3. Assay Buffer
@@ -25,9 +21,7 @@
 
 
 
-## Procedure
-
-&nbsp;
+### Procedure
 
 
 
@@ -67,7 +61,7 @@
 
  
 
-## Observation and Results
+### Observation and Results
  
 &nbsp;
 
@@ -87,7 +81,7 @@ In this figure, the titre value of the antiserum is 1:2
 
  
 
-### Precautions
+#### Precautions
 
 &nbsp;
  
