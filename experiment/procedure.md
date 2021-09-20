@@ -63,8 +63,6 @@
 
 ### Observation and Results
  
-&nbsp;
-
 
 
 The precipitin lines will be visible in 24-48 hours. You should be able to see opaque white arcs in each side of the plate where the antibody and antigen precipitated. Note down the highest dilution at which the precipitin line is formed. This is the titre value of the antiserum.
@@ -83,8 +81,7 @@ In this figure, the titre value of the antiserum is 1:2
 
 #### Precautions
 
-&nbsp;
- 
+
 
 1.    If you are provided with 10X assay buffer, dilute the required amount of 10X assay buffer to 1X with distilled water.
 2.    Reconstitute the antigen vial with 0.2 ml of 1X assay buffer if needed. Mix well, store at 4°C and use within 3 months.
