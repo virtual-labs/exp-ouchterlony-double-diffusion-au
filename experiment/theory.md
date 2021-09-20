@@ -1,8 +1,5 @@
 ### Principle
 
-&nbsp;
-
-
 
 The key reaction of immunology and immune defense is the interaction of antibodies and antigens.  This interaction  is responsible for the body’s defense against viral and bacterial infections and other toxins.  The body’s defense mechanism  recognizes foreign substances, or antigens, and raises specific antibodies against them.   
  
